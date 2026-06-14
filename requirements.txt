@@ -1,0 +1,12 @@
+streamlit>=1.35.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+pytz>=2024.1
+pandas>=2.0.0
+openpyxl>=3.1.0
+streamlit-mic-recorder>=0.0.8
+SpeechRecognition>=3.10.0
+pydub>=0.25.1
+google-generativeai>=0.8.0
+Pillow>=10.0.0
+tabulate>=0.9.0

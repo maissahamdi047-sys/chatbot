@@ -139,8 +139,6 @@ Chat-bot-master/
 
 ## License
 
-MIT License.
+Propriétaire - Tous droits réservés
 
----
 
-*Mars AI Assistant — Streamlit chatbot demo.*
